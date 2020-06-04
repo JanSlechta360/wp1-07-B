@@ -9,8 +9,8 @@
     
 <?php
 
-$age = 14;
-$height = 140;
+$age = 15;
+$height = 150;
 
 if(($age <= 10) && ($height <= 140) || ($age >= 65)) {
     $enteryFee = 60;
